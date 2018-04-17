@@ -1,8 +1,8 @@
 # Multi-Room-Chat-Server
  Chat server using Node.JS and Socket.IO
  
-Link to server: http://ec2-54-243-16-36.compute-1.amazonaws.com:3456/client.html
- 
+Link to server: http://ec2-18-217-35-137.us-east-2.compute.amazonaws.com:3456/
+
 Chat server that contains main lobby where users can sign in with a nickname and communicate.
  
 Users can create chat rooms for others to join. Entire app is displayed on a single webpage, listing which room you are in, all available rooms, and who is in current chat room. 
